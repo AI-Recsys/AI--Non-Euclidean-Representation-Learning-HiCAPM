@@ -1,0 +1,11 @@
+{
+  "n_users": 5377,
+  "n_items": 3393,
+  "n_entities": 4323,
+  "n_relations": 4,
+  "n_train": 9128,
+  "n_test": 4561,
+  "n_kg_triples": 17939,
+  "k_core": 0,
+  "train_ratio": 0.8
+}
