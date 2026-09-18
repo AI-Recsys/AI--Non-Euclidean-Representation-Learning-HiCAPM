@@ -1,0 +1,4 @@
+org_id	remap_id
+belong_to_genre	0
+release_year	1
+has_user	2
